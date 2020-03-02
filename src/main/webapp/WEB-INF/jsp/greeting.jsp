@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Greeting</title>
+</head>
+<body>
+<h1>${message}</h1>
+
+<h1>Hello Shashank, I am in "Greeting.jsp" page </h1>
+
+</body>
+</html>
